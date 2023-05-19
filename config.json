@@ -1,0 +1,37 @@
+{
+  "factory": {
+    "location": "Fábrica",
+    "coordinates": "(40.7128, -74.0060)"
+  },
+  "trucks": [
+    {
+      "id": 1,
+      "capacity": 320
+    },
+    {
+      "id": 2,
+      "capacity": 320
+    },
+    {
+      "id": 3,
+      "capacity": 320
+    }
+  ],
+  "deliveries": [
+    {
+      "location": "Ponto 1",
+      "coordinates": "(40.7359, -74.1722)",
+      "quantity": 150
+    },
+    {
+      "location": "Ponto 2",
+      "coordinates": "(40.7489, -73.9680)",
+      "quantity": 100
+    },
+    {
+      "location": "Ponto 3",
+      "coordinates": "(40.7128, -74.0060)",
+      "quantity": 200
+    }
+  ]
+}
